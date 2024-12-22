@@ -1,4 +1,4 @@
-# NCTU_PDA
+# NYCU_PDA
 
 這門課是交大電子所林柏宏教授開的實體設計自動化
 
@@ -15,7 +15,7 @@
 
 都是用 C++ 完成
 
-## Assignments
+## Assignment
 
 |No.|Name|Features|
 |:---:|:---|:---|
